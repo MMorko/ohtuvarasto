@@ -1,0 +1,2 @@
+def funktio():
+    return
